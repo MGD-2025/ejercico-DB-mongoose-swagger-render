@@ -1,6 +1,6 @@
 const basicInfo = require('./basicInfo');
 const components = require('./components');
-const components = require('./tasks');
+const tasks = require('./tasks');
 
 module.exports = {
     ...basicInfo,
